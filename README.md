@@ -59,12 +59,6 @@ Follow the link that appears !
 
 ### Technologies Used
 
-<p float="left>
-<img src="https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/py-logo.png" width=10% height=10%>
 
-<img src="https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/openCV-logo.png" width=10% height=10%>
+<img src="https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/py-logo.png" width=10% height=10%> <img src="https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/openCV-logo.png" width=10% height=10%> <img src="https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/st-logo.png" width=10% height=10%> <img src="https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/tf-logo.png" width=10% height=10%>
 
-<img src="https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/st-logo.png" width=10% height=10%>
-
-<img src="https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/tf-logo.png" width=10% height=10%>
-</p>
