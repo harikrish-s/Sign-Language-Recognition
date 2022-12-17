@@ -22,6 +22,6 @@ Humans communicate with one another to share their thoughts, feelings and experi
 - We have also added features like word autocomplete,Next word prediction and Backspacing
 
 ### Demo
-![](https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/islts-demo.gif)
+![](https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/demo-pic.png)
 
 ### Installation
