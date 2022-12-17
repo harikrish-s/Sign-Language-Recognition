@@ -23,3 +23,5 @@ Humans communicate with one another to share their thoughts, feelings and experi
 
 ### Demo
 ![](https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/islts-demo.gif)
+
+### Installation
