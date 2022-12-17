@@ -6,7 +6,7 @@ Levenshtein==0.20.8
 mediapipe==0.8.10.1
 next-word-prediction==0.2.0
 numpy==1.23.3
-opencv-python-headless==4.5.5.62
+opencv-contrib-python==4.5.5.62
 pydub==0.25.1
 python-Levenshtein==0.20.8
 pytorch-transformers==1.2.0
