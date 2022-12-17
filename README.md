@@ -62,3 +62,7 @@ Follow the link that appears !
 
 <img src="https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/py-logo.png" width=25% height=25%> <img src="https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/openCV-logo.png" width=10% height=10%> <img src="https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/st-logo.png" width=25% height=25%> <img src="https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/tf-logo.png" width=10% height=10%>
 
+### Got a Question ?
+
+If you have any questions that are bothering you please contact me on our LinkedIn Profiles - [Harikrishnan S](https://www.linkedin.com/in/harikrishnan-s-580461214/) , [Rohit Arrunachalam](linkedin.com/in/rohitarrunachalam/). If you think a line is redundant or can be removed to make the program better then you can obviously ask us or make a pull request.
+
