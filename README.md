@@ -20,3 +20,6 @@ Humans communicate with one another to share their thoughts, feelings and experi
 - The tool gets the sign language gesture performed by the person as input from the camera and converts that into speech.SImilarly , it converts text to Indian sign language gestures.
 - We’ve trained the ML model using the SVM algorithm.
 - We have also added features like word autocomplete,Next word prediction and Backspacing
+
+### Demo
+![Alt Text]("C:\Users\Rohit\Videos\Captures\great - Copy.mp4")
