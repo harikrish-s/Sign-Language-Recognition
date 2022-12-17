@@ -7,7 +7,7 @@ AI Assistance tool for Sign language using Computer Vision
 - [Installation](#Installation) 
 - [Run](#Run) 
 - [Technologies Used](#Technologies%Used) 
-- [Got a Question](#Got%a%Question?) 
+- [Got a Question](#Got%a%Question%?) 
 
 
 
@@ -22,4 +22,4 @@ Humans communicate with one another to share their thoughts, feelings and experi
 - We have also added features like word autocomplete,Next word prediction and Backspacing
 
 ### Demo
-![Alt text](C:\Users\Rohit\Videos\Captures\ezgif.com-gif-maker.gif)
+![](https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/islts-demo.gif)
