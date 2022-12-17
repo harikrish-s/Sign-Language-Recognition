@@ -59,7 +59,7 @@ Follow the link that appears !
 
 ### Technologies Used
 
-![](https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/py-logo.png | width = 25)
+![](https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/py-logo.png = 50*50)
 ![](https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/openCV-logo.png | width = 25)
 ![](https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/st-logo.png | width = 25)
 ![](https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/tf-logo.png | width = 25)
