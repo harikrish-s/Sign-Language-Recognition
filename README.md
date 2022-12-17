@@ -56,3 +56,6 @@ After Installing the Requirements , Open your terminal and run the command
 streamlit run Home.py
 ```
 Follow the link that appears !
+
+### Technologies Used
+
