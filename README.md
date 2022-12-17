@@ -9,4 +9,4 @@ AI Assistance tool for Sign language using Computer Vision
 - [Technologies Used](#Technologies%Used) 
 - [Got a Question](#Got%a%Question?) 
 
-###Overview
+### Overview
