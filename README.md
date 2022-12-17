@@ -25,3 +25,27 @@ Humans communicate with one another to share their thoughts, feelings and experi
 ![](https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/demo-pic.png)
 
 ### Installation
+
+Open your Terminal
+
+a) Create a Virtual Environment
+'''
+virtualenv venv
+'''
+b) Move to venv directory and activate environment
+'''
+cd venv
+Scripts\activate
+'''
+c) Clone this Repo
+'''
+git clone https://github.com/harikrish-s/Sign-Language-Recognition.git
+'''
+d) Move into the cloned directory
+'''
+cd Sign-Language-Recognition
+'''
+e) Now install all requirements
+'''
+pip install -r requirements.txt
+'''
