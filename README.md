@@ -22,4 +22,4 @@ Humans communicate with one another to share their thoughts, feelings and experi
 - We have also added features like word autocomplete,Next word prediction and Backspacing
 
 ### Demo
-<img src="C:\Users\Rohit\Videos\Captures\great.mp4" alt="Alt text" title="Optional title">
+![Alt text]("C:\Users\Rohit\Videos\Captures\ezgif.com-gif-maker.gif")
