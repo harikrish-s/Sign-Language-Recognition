@@ -66,5 +66,5 @@ Follow the link that appears !
 
 ### Got a Question ?
 
-If you have any questions that are bothering you, Please feel free to contact us on LinkedIn - [Harikrishnan S](https://www.linkedin.com/in/harikrishnan-s-580461214/) , [Rohit Arrunachalam](linkedin.com/in/rohitarrunachalam/). If you think a line is redundant or can be removed to make the program better then you can obviously ask us or make a pull request.
+If you have any questions that are bothering you, Please feel free to contact us on LinkedIn - [Harikrishnan S](https://www.linkedin.com/in/harikrishnan-s-580461214/) , [Rohit Arrunachalam](https://www.linkedin.com/in/rohitarrunachalam/). Or if you think a line is redundant or can be removed to make the program better then you can obviously ask us or make a pull request !
 
