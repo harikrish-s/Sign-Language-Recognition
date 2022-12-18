@@ -46,7 +46,6 @@ streamlit run Home.py
 <img src="https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/openCV-logo.png" width=10% height=10%>
 <img src="https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/mediapipe-logo.jpeg" width=10% height=10%>
 <img src="https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/st-logo.png" width=25% height=25%>
-<img src="https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/tf-logo.png" width=10% height=10%>
 
 
 
