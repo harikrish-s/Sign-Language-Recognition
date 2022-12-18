@@ -227,16 +227,16 @@ if webrtc_ctx.state.playing:
 
     with st.sidebar:
 
-        st.markdown("Detection String -")
+        st.markdown("Detected String:")
         placeholder = st.empty()
-        st.markdown("Text Auto Complete	-")
+        st.markdown("Current Word Auto Complete:")
         widget2 = st.empty()
-        st.markdown("Next Word Prediction -")
+        st.markdown("Next Word Prediction:")
         npwid = st.empty()
 
     result = ""
-    st.checkbox("To	Speech", on_change=ttsgtts)
-    st.markdown("Your Audio	Output -")
+    st.checkbox("Convert To Speech", on_change=ttsgtts)
+    st.markdown("Your Audio Output:")
     audwid = st.empty()
 
     while True:
