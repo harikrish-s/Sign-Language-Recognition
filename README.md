@@ -16,7 +16,7 @@ Humans communicate with one another to share their thoughts, feelings and experi
 
 
 ### Problem Solution
-- Our solution to this problem is an AI assistance for sign language tool that works based on computer vision and machine learning using technologies like OpenCV,Mediapipe,BERT.etc
+- Our solution to this problem is an AI assistance for sign language tool that works based on computer vision and machine learning using technologies like OpenCV,Mediapipe,BERT,Streamlit.etc
 - The tool gets the sign language gesture performed by the person as input from the camera and converts that into speech.SImilarly , it converts text to Indian sign language gestures.
 - We’ve trained the ML model using the SVM algorithm.
 - We have also added features like word autocomplete,Next word prediction and Backspacing
@@ -26,36 +26,18 @@ Humans communicate with one another to share their thoughts, feelings and experi
 
 ### Installation
 
-Open your Terminal
+It is recommended to use a Virtual Environment to run this project
 
-a) Create a Virtual Environment
-```
-virtualenv venv
-```
-b) Move to venv directory and activate environment
-```
-cd venv
-Scripts\activate
-```
-c) Clone this Repo
-```
-git clone https://github.com/harikrish-s/Sign-Language-Recognition.git
-```
-d) Move into the cloned directory
-```
-cd Sign-Language-Recognition
-```
-e) Now install all requirements
+Install all the required packages using
 ```
 pip install -r requirements.txt
 ```
-### Run
+### To run the code
 
-After Installing the Requirements , Open your terminal and run the command
+Open terminal in the directory where the home.py file is present and run the command
 ```
 streamlit run Home.py
 ```
-Follow the link that appears !
 
 ### Technologies Used
 
@@ -66,5 +48,7 @@ Follow the link that appears !
 
 ### Got a Question ?
 
-If you have any questions that are bothering you, Please feel free to contact us on LinkedIn - [Harikrishnan S](https://www.linkedin.com/in/harikrishnan-s-580461214/) , [Rohit Arrunachalam](https://www.linkedin.com/in/rohitarrunachalam/) , [Isha](https://www.linkedin.com/in/isha-reddy-vaka-1457a9228/). Or if you think a line is redundant or can be removed to make the program better then you can obviously ask us or make a pull request !
+Feel free to contact us on LinkedIn - [Harikrishnan S](https://www.linkedin.com/in/harikrishnan-s-580461214/) , [Rohit Arrunachalam](https://www.linkedin.com/in/rohitarrunachalam/) , [Isha](https://www.linkedin.com/in/isha-reddy-vaka-1457a9228/).
+
+Make a pull request on this repo if you would like work towards improving this project.
 
