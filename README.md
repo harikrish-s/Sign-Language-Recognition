@@ -53,7 +53,7 @@ streamlit run Home.py
 
 ### Got a Question ?
 
-Feel free to contact us on LinkedIn - [Harikrishnan S](https://www.linkedin.com/in/harikrishnan-s-580461214/) , [Rohit Arrunachalam](https://www.linkedin.com/in/rohitarrunachalam/) , [Isha](https://www.linkedin.com/in/isha-reddy-vaka-1457a9228/).
+Feel free to contact us on LinkedIn - [Harikrishnan S](https://www.linkedin.com/in/harikrish-srini/) , [Rohit Arrunachalam](https://www.linkedin.com/in/rohitarrunachalam/) , [Isha](https://www.linkedin.com/in/isha-reddy-vaka-1457a9228/).
 
 Make a pull request on this repo if you would like work towards improving this project.
 
